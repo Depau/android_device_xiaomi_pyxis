@@ -18,7 +18,7 @@
 
 set -e
 
-DEVICE=raphael
+DEVICE=pyxis
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks

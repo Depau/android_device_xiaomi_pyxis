@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_raphael.mk
+    $(LOCAL_DIR)/omni_pyxis.mk

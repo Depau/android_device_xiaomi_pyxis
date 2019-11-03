@@ -18,7 +18,7 @@
 
 set -e
 
-DEVICE=raphael
+DEVICE=pyxis
 VENDOR=xiaomi
 
 INITIAL_COPYRIGHT_YEAR=2019
